@@ -32,5 +32,5 @@ As a Marketing Analyst, I was asked to identify weekday-level engagement pattern
 - Session modeling introduces minor discrepancies compared to raw event-level counts.
 
 ## Deliverables
-- **Slides:** Executive presentation with visual analysis [slides/](slides/)
+- **Slides:** Executive presentation with visual analysis [slides](slides/)
 - **SQL:** Queries used for session modeling and analysis [sql](sql/)
